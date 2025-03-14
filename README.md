@@ -1,4 +1,4 @@
-# Hi, I’m @eungobs 👋
+# Hi, I’m Elizabeth Eunice Ndzukule 👋
 
 ## 👩‍💻 About Me
 My name is **Elizabeth Eunice Ndzukule**, and I'm a certified **Software Engineer** with a specialization in **Backend Development**. I'm currently expanding my skills in **React** and **MongoDB**, but I also have a passion for **Frontend Development** and enjoy working on the full stack. I believe in continuous learning and always seek opportunities to grow as a developer.
