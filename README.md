@@ -4,6 +4,7 @@
 My name is **Elizabeth Eunice Ndzukule**, and I'm a certified **Software Engineer** with a specialization in **Backend Development**. I'm currently expanding my skills in **React** Node.js and **MongoDB**, but I also have a passion for **Frontend Development** and enjoy working on the full stack. I believe in continuous learning and always seek opportunities to grow as a developer.
 
 - 👀 I’m interested in:
+- Frontend Development
   - Backend development
   - Full-stack projects
   - Learning new technologies (currently React & MongoDB)
@@ -12,6 +13,9 @@ My name is **Elizabeth Eunice Ndzukule**, and I'm a certified **Software Enginee
 
 - 🌱 I’m currently learning:
   - React.js
+  - React-Native
+  - Redux
+  - Node.js
   - MongoDB
 
 - 💞️ I’m looking to collaborate on:
